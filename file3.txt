@@ -1,0 +1,19 @@
+BRANCHING IN GIT:
+NOTE:
+bname is branch's name
+
+COMMANDS:
+
+$git branch  				//shows active branches
+
+$git branch -a 				//lists all the branches in active and removed repositories. red colored branches are already created and deleted
+
+$git branch bname 			// creation of a branch
+
+$git checkout bname 		//To switch directly to another branch and work.
+
+$git checkout - b bname 	//Creates and  new branch and Switched to that new branch.(Similar to hotel room checkout)
+
+$git branch -d bname 		//
+
+$git 
