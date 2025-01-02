@@ -1,4 +1,6 @@
 BRANCHING IN GIT:
+Branching is a method of diverging from the main line of development and continuing to work independently without affecting that main line.
+Each branch represents an independent line of development, allowing multiple tasks such as feature work, bug fixes, or experiments to proceed in parallel.
 NOTE:
 bname is branch's name
 
